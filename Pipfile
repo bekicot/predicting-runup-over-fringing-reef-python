@@ -1,0 +1,30 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = "*"
+pylint = "*"
+
+[packages]
+tensorflow = "*"
+numpy = "*"
+scipy = "*"
+keras = "*"
+ipykernel = "*"
+jupytext = "*"
+pydot = "*"
+panda = "*"
+pandas = "*"
+matplotlib = "*"
+pyqt5 = "*"
+tabulate = "*"
+sklearn = "*"
+jupyter-contrib-nbextensions = "*"
+seaborn = "*"
+clip = "*"
+pyperclip = "*"
+
+[requires]
+python_version = "3.7"

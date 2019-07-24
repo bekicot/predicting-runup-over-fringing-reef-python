@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/yana/.local/share/virtualenvs/demerbilek_prediction-2ieIkYyw/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.dataScience.jupyterServerURI": "local"
+}
